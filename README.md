@@ -1,4 +1,3 @@
-# CesiumTaller05
+# Trabajo final materia Informática
 
-## Esta práctica permite leer un archivo geojson, y visualizarlo utilizando un menú desarrollado y presnetado en el tutorial Sandbox.
-### Se debe instalar en el direcotrio Apps del paquete de Cesium, se desarrollo bajo Ceium 1.44
+## Este trabajo tiene por objetivo realizar la integración de un dispositivo IoT, con elementos de control y visualización de los datos capurados por el sensor en un visor de datos geográficos 3D.
